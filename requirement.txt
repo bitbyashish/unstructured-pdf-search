@@ -1,0 +1,7 @@
+fastapi==0.111.1
+uvicorn==0.25.0
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+numpy==1.26.5
+PyJWT==2.8.0
+pydantic==2.6.1
